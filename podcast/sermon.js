@@ -46,40 +46,40 @@ var songsToAdd = [
 Amplitude.init({
   "songs": [
     {
-      "name": "Harvest 2019 - Session 1",
-      "artist": "Apostle N.N Mcoteli",
+      "name": "Bush Camp Add",
+      "artist": "Bush Camp Add",
       "album": "Burning Bush Ministries",
-      "url": "http://docs.google.com/uc?export=open&id=1vpEUangUaDwGJE0xnMizDJQn8tU2nR08",
-      "cover_art_url": "http://docs.google.com/uc?export=open&id=1Xn5jYCGc_KRnPip6lb2XWYiMisC8_G5R"
+      "url": "http://docs.google.com/uc?export=open&id=1vSJ13LUCvUtisKsyeDPa5iKrPO0vk",
+      "cover_art_url": "https://drive.usercontent.google.com/download?id=1gYTteuXcB7B7RRlyJf-Mk6wBH5WPedfW&export=open&authuser=0"
     },
-     {
-      "name": "CK Camp 2019",
-      "artist": "Bishop L. Sidlayiya",
-      "album": "Burning Bush Ministries",
-      "url": "http://docs.google.com/uc?export=open&id=1h8yTbPOMRR4jtkawdq-ffExS5Rth6K9q",
-      "cover_art_url": "http://docs.google.com/uc?export=open&id=1Y9lIoYA-hYluUjUJMP9lSwkwaH5mONOv"
-    },
-     {
-      "name": "Harvest 2019 - Session 2",
-      "artist": "Bishop T. Sambudla",
-      "album": "Burning Bush Ministries",
-      "url": "http://docs.google.com/uc?export=open&id=1_ju858C6qLm-G_xXXgdGz7eSOF36ppPk",
-      "cover_art_url": "http://docs.google.com/uc?export=open&id=1eNKHi3uRH7FlUllRntSect09VJzSdNVq"
-    },
-     {
-      "name": "Harvest 2019 - Session 3",
-      "artist": "Bishop TD. Hermanus",
-      "album": "Burning Bush Ministries",
-      "url": "http://docs.google.com/uc?export=open&id=1wxt0Toc12qJWg0Y1GDKABDq04pNJRw3g",
-      "cover_art_url": "http://docs.google.com/uc?export=open&id=1Mw0k7ZBaY4aLE01_4PKSdmimZ2ufgYFF"
-    },
-     {
-      "name": "Prayer Camp - Repentance",
-      "artist": "Apostle T. Mcoteli",
-      "album": "Burning Bush Ministries",
-      "url": "http://docs.google.com/uc?export=open&id=1KOLEzbbwLUzESHKnH0ql-ISB7BbmysfM",
-      "cover_art_url": "http://docs.google.com/uc?export=open&id=1KPnqcP018pcRHe_Md0s2OAyjI1Xl1rtu"
-    },
+    //  {
+    //   "name": "CK Camp 2019",
+    //   "artist": "Bishop L. Sidlayiya",
+    //   "album": "Burning Bush Ministries",
+    //   "url": "http://docs.google.com/uc?export=open&id=1vSJ13LUCvUtisKsyeDPa5iKrPO0vk",
+    //   "cover_art_url": "http://docs.google.com/uc?export=open&id=1Y9lIoYA-hYluUjUJMP9lSwkwaH5mONOv"
+    // },
+    //  {
+    //   "name": "Harvest 2019 - Session 2",
+    //   "artist": "Bishop T. Sambudla",
+    //   "album": "Burning Bush Ministries",
+    //   "url": "http://docs.google.com/uc?export=open&id=1_ju858C6qLm-G_xXXgdGz7eSOF36ppPk",
+    //   "cover_art_url": "http://docs.google.com/uc?export=open&id=1eNKHi3uRH7FlUllRntSect09VJzSdNVq"
+    // },
+    //  {
+    //   "name": "Harvest 2019 - Session 3",
+    //   "artist": "Bishop TD. Hermanus",
+    //   "album": "Burning Bush Ministries",
+    //   "url": "http://docs.google.com/uc?export=open&id=1wxt0Toc12qJWg0Y1GDKABDq04pNJRw3g",
+    //   "cover_art_url": "http://docs.google.com/uc?export=open&id=1Mw0k7ZBaY4aLE01_4PKSdmimZ2ufgYFF"
+    // },
+    //  {
+    //   "name": "Prayer Camp - Repentance",
+    //   "artist": "Apostle T. Mcoteli",
+    //   "album": "Burning Bush Ministries",
+    //   "url": "http://docs.google.com/uc?export=open&id=1KOLEzbbwLUzESHKnH0ql-ISB7BbmysfM",
+    //   "cover_art_url": "http://docs.google.com/uc?export=open&id=1KPnqcP018pcRHe_Md0s2OAyjI1Xl1rtu"
+    // },
   ]
 });
 
